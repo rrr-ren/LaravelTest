@@ -1,0 +1,6 @@
+"laravelcollective/html": "~5.0"
+
+'Form' => 'Collective\Html\FormFacade',
+        'Html' => 'Collective\Html\HtmlFacade',
+
+ 'Collective\Html\HtmlServiceProvider',
